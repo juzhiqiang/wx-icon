@@ -1,0 +1,214 @@
+<template name="icon">
+  <view>
+    <view id="title">wx-iconfont 图标示例</view>
+    <view>
+      <view class="icon-block">
+        <text class="icon iconfont xcx-quanbudingdan"></text>
+        <view class="name">全部订单</view>
+        <view class="fontclass">.xcx-quanbudingdan</view>
+      </view>
+      <view class="icon-block">
+        <text class="icon iconfont xcx-daifukuan"></text>
+        <view class="name">待付款</view>
+        <view class="fontclass">.xcx-daifukuan</view>
+      </view>
+      <view class="icon-block">
+        <text class="icon iconfont xcx-unie64d"></text>
+        <view class="name">头像</view>
+        <view class="fontclass">.xcx-unie64d</view>
+      </view>
+      <view class="icon-block">
+        <text class="icon iconfont xcx-sousuo"></text>
+        <view class="name">搜索</view>
+        <view class="fontclass">.xcx-sousuo</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-icon03"></text>
+        <view class="name">个人中心</view>
+        <view class="fontclass">.xcx-icon03</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-jiage"></text>
+        <view class="name">价格</view>
+        <view class="fontclass">.xcx-jiage</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-shouji"></text>
+        <view class="name">手机</view>
+        <view class="fontclass">.xcx-shouji</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-shanchu"></text>
+        <view class="name">删除</view>
+        <view class="fontclass">.xcx-shanchu</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-caidan"></text>
+        <view class="name">菜单</view>
+        <view class="fontclass">.xcx-caidan</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-daishouhuo"></text>
+        <view class="name">分期商城－待收货</view>
+        <view class="fontclass">.xcx-daishouhuo</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-dingdan"></text>
+        <view class="name">订单</view>
+        <view class="fontclass">.xcx-dingdan</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-IOS"></text>
+        <view class="name">IOS</view>
+        <view class="fontclass">.xcx-IOS</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-chongzhi"></text>
+        <view class="name">充值</view>
+        <view class="fontclass">.xcx-chongzhi</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-QQ"></text>
+        <view class="name">QQ</view>
+        <view class="fontclass">.xcx-QQ</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-anzhuo"></text>
+        <view class="name">安卓</view>
+        <view class="fontclass">.xcx-anzhuo</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-danxuan-weixuan"></text>
+        <view class="name">单选-未选</view>
+        <view class="fontclass">.xcx-danxuan-weixuan</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-bianji"></text>
+        <view class="name">编辑</view>
+        <view class="fontclass">.xcx-bianji</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-fabu"></text>
+        <view class="name">发布</view>
+        <view class="fontclass">.xcx-fabu</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-danxuan-yixuan"></text>
+        <view class="name">单选-已选</view>
+        <view class="fontclass">.xcx-danxuan-yixuan</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-dianhua"></text>
+        <view class="name">电话</view>
+        <view class="fontclass">.xcx-dianhua</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-viewulan"></text>
+        <view class="name">浏览</view>
+        <view class="fontclass">.xcx-viewulan</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-pengyouquan"></text>
+        <view class="name">朋友圈</view>
+        <view class="fontclass">.xcx-pengyouquan</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-shangyiye"></text>
+        <view class="name">上一页</view>
+        <view class="fontclass">.xcx-shangyiye</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-tixing"></text>
+        <view class="name">提醒</view>
+        <view class="fontclass">.xcx-tixing</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-shoucang"></text>
+        <view class="name">收藏</view>
+        <view class="fontclass">.xcx-shoucang</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-xiayiye"></text>
+        <view class="name">下一页</view>
+        <view class="fontclass">.xcx-xiayiye</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-yishoucang"></text>
+        <view class="name">已收藏</view>
+        <view class="fontclass">.xcx-yishoucang</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-tupianviewebiao"></text>
+        <view class="name">图片列表</view>
+        <view class="fontclass">.xcx-tupianviewebiao</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-jiangxu"></text>
+        <view class="name">降序</view>
+        <view class="fontclass">.xcx-jiangxu</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-shengxu"></text>
+        <view class="name">升序</view>
+        <view class="fontclass">.xcx-shengxu</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-tianjia"></text>
+        <view class="name">添加</view>
+        <view class="fontclass">.xcx-tianjia</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-tubiaozhizuomoban"></text>
+        <view class="name">购物车</view>
+        <view class="fontclass">.xcx-tubiaozhizuomoban</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-weixin"></text>
+        <view class="name">微信</view>
+        <view class="fontclass">.xcx-weixin</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-xiazai"></text>
+        <view class="name">下载</view>
+        <view class="fontclass">.xcx-xiazai</view>
+      </view>
+
+      <view class="icon-block">
+        <text class="icon iconfont xcx-home"></text>
+        <view class="name">首页</view>
+        <view class="fontclass">.xcx-home</view>
+      </view>
+
+    </view>
+  </view>
+</template>

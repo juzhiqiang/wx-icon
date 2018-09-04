@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<import src="../../font/demo_fontclass.wxml"/>
+<view class="container">
+  <template is="icon"/>
+</view>
